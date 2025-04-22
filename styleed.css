@@ -1,0 +1,57 @@
+
+  .chart-container {
+    width: 1000px;
+    height: 500px;
+    display: grid;
+    margin: 0 auto;
+
+  }
+  
+  canvas#myChart {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 100px;
+    left: 3px;
+  }
+.imagen-container{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    margin: 30px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+.letras-container{
+    width: 1000px;
+    height: 800px;
+    margin: 30px;
+}
+.dosimg-container{
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    margin: 30px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    left: 10px;
+    top: 20px;
+}
+img{
+  width: 400px;
+  height: 400px;
+  left: 10px;
+  top: 20px;
+}
+.letters-container{
+  width: 1000px;
+  height: 800px;
+  margin: 30px;
+}

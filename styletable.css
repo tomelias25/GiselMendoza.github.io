@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+.container{
+    border: solid 1px rgba(111, 0, 255, 0.438);
+}
+table {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgba(111, 0, 255, 0.438);
+    padding: 20px 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+td{
+    padding: 15px;
+    border-bottom: solid 3px rgba(111, 0, 255, 0.438);
+}
+tbody tr{
+    cursor: pointer;
+}
+tbody tr:hover {
+    background: rgba(113, 247, 247, 0.329);
+}
